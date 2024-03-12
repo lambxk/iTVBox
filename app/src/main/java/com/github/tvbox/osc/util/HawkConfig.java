@@ -14,7 +14,7 @@ public class HawkConfig {
 
    // public static String SEN_SUS = "57287e2d24"; //百度统计
    // public static String APP_Channel = "yanshi_huikan"; //渠道随意
-   public static final String CONFIG_URL = "https://xxxx.xxx/huikan.properties";//这里改成你自己的
+   public static final String CONFIG_URL = "http://tvbox.gzyang.cn";//这里改成你自己的
 
     public static String Your_app_id = ""; //TalkingData统计id  AndroidManifest.xml里面的也需要改
     public static String Your_channel_id = ""; //渠道随意
