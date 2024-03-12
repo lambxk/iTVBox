@@ -21,7 +21,7 @@ public class HawkConfig {
     public static String zb_vpn = "0"; //是否开启抓包 0开启 1关闭
     public static final String BASE_URL_ENC = "";//域名无用
     public static String MMM_MMM = new String(Base64.decode(HawkConfig.BASE_URL_ENC.getBytes(), Base64.DEFAULT));
-    public static String API_KEY = "xxxxxxxxxxxxxxx"; //如意后台 接口密钥
+    public static String API_KEY = "ACFpbD2sEbfArXAWxMTJHZa73SnJFDy7x"; //如意后台 接口密钥
     public static final String SOURCES_FOR_SEARCH = "checked_sources_for_search";//搜索
     public static final String DOH_URL = "doh_url";
     public static final String API_URL = "api_url";
